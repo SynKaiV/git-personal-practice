@@ -1,3 +1,3 @@
 main(){
-  print('Hello form the SECOND CODE!');
+  print('Hello from the SECOND CODE!');
 }
